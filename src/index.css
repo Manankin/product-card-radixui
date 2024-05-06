@@ -1,0 +1,7 @@
+@import '../src/styles/product.css';
+
+body {
+  margin: 5px;
+  padding-inline: 5px;
+  border: 1px solid tomato;
+}
