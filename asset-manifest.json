@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/product-card-radixui/static/css/main.17692e4e.css",
+    "main.js": "/product-card-radixui/static/js/main.3b0b6e2c.js",
+    "static/media/favorite-fullfill.svg": "/product-card-radixui/static/media/favorite-fullfill.33f032c55053df022652.svg",
+    "static/media/favorite.svg": "/product-card-radixui/static/media/favorite.21e1569da82d154d7dbd.svg",
+    "index.html": "/product-card-radixui/index.html",
+    "static/media/arrow-right-3098.svg": "/product-card-radixui/static/media/arrow-right-3098.c34e24205c879d733fdc.svg",
+    "static/media/arrow-left-3099.svg": "/product-card-radixui/static/media/arrow-left-3099.51657c61c10531194738.svg",
+    "main.17692e4e.css.map": "/product-card-radixui/static/css/main.17692e4e.css.map",
+    "main.3b0b6e2c.js.map": "/product-card-radixui/static/js/main.3b0b6e2c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17692e4e.css",
+    "static/js/main.3b0b6e2c.js"
+  ]
+}
